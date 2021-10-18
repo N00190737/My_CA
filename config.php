@@ -1,7 +1,7 @@
 <?php
 // Define constants - values you need that don't need to change (unlike variables which can change) 
 // Its handy to have them all in one place, define them once in this config file and use them anywhere in the code
-define('APP_URL', 'http://localhost/My_CA/pubs');
+define('APP_URL', 'http://localhost/My_CA/pubs_ca');
 
 define('DB_SERVER', 'localhost');
 define('DB_DATABASE', 'pubs_ca');
